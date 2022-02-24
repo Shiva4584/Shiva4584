@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Machine Learning
+🔭 I’m currently working on Machine Learning and DeepLearning
 
 🌱 I’m currently learning everything
